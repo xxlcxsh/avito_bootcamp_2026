@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.parquet
+.ipynb_checkpoints/
+dist/
+artifacts/
+.venv-dense/
+cache/
+models/
+dense_results.json
+dense_speed.json
